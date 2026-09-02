@@ -1,4 +1,4 @@
-# page_wallk
+# page_walk
 Anticheat pagewalking for memory backing
 
 Concept is reversed from EAC and provided to me by Viper/Vrailn, I improved the concept and publicly released it. 95% was written by me, other 5% and the rest of the read me was cursor fixing some of my mistakes but rewrote a good bit, plan on improving in the future when i have time. 
